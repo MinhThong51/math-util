@@ -9,6 +9,6 @@
 
 ## Connect me via
 1. [Facebook](https://facebook.com/thong.le.5477272)
-2. [Email](mailto: testswe102@gmail.com)
+2. [Email](mailto:testswe102@gmail.com)
 
 #### © 2020 by Minh.Thong
