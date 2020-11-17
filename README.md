@@ -8,7 +8,7 @@
 * README.md - this file itself to show the home page of this repo
 
 ## Connect me via
-[Facebook}(https://facebook.com/thong.le.5477272)
-[Email](mail: testswe102@gmail.com)
+1. [Facebook](https://facebook.com/thong.le.5477272)
+2. [Email](mailto: testswe102@gmail.com)
 
 #### © 2020 by Minh.Thong
