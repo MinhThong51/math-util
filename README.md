@@ -1,4 +1,4 @@
-![FPTLogo](https://www.google.com.vn/url?sa=i&url=https%3A%2F%2Fvi.wikipedia.org%2Fwiki%2FT%25E1%25BA%25ADp_tin%3ALogo_%25C4%2590%25E1%25BA%25A1i_h%25E1%25BB%258Dc_FPT.png&psig=AOvVaw1pGabsvTTp18yOjtzrUr6a&ust=1605688144089000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjbr86Uie0CFQAAAAAdAAAAABAD)
+![FPTLogo](https://upload.wikimedia.org/wikipedia/vi/1/1d/Logo_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_FPT.png)
 
 # Welcome to Math Utility repositiry
 
